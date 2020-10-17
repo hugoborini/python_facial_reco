@@ -11,7 +11,7 @@ def img_reco(folder, unKnown):
     image_load_tab = []
 
     for img in tab_img:
-        image_load_tab.append(face_recognition.load_image_file(img))
+        image_loadtab.append(face_recognition.load_image_file(img))
 
     known_face_encodings = []
     
