@@ -13,7 +13,7 @@
 - `python3 RecoFace.py`
 
 ## basic usage
-- #### for add face into the DataBase you just need to move your photo into le database folder
+- #### for add face into the DataBase you just need to move your photo into the database folder
 
 - #### the gui is pretty simple :
 
