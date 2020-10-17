@@ -3,8 +3,8 @@
 ## this project is for educational purpose 🤓
 
 ## you need pip to run this project
-### i create a sh script you will download all package for you
-### but if you the script don't word you need
+
+### To run this project yo need : 
 - tkinter
 - face_recognition
 - PIL
