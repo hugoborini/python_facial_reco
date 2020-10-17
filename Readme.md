@@ -1,6 +1,6 @@
 # python RECOGNATION
 
-## this project is for educational purpose
+## this project is for educational purpose 🤓
 
 ## you need pip to run this project
 ### i create a sh script you will download all package for you
