@@ -11,7 +11,7 @@ def img_reco(folder, unKnown):
     image_load_tab = []
 
     for img in tab_img:
-        image_loadtab.append(face_recognition.load_image_file(img))
+        image_load_tab.append(face_recognition.load_image_file(img))
 
     known_face_encodings = []
     
@@ -50,5 +50,3 @@ def img_reco(folder, unKnown):
         pil_image.show()
 
 
-
-#img_reco("../img/known", "../img/groups/nico_g3.jpg")
